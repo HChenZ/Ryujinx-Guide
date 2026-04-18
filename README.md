@@ -46,3 +46,4 @@ Ryujinx安装成功后最重要的就是安装密钥和固件了。
 ## 结语
 
 以上就是本篇教程的全部内容，如果完成了以上所有操作就可以在电脑上使用Ryujinx模拟器游玩Switch游戏了。关于Ryujinx模拟器的其它设置和玩法大家可以自行探索，在此就不一一介绍了。
+参考资料：https://github.com/Abd-007/Switch-Emulators-Guide
