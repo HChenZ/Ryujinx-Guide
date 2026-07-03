@@ -15,7 +15,7 @@ Ryujinx安装成功后最重要的就是安装密钥和固件了。
 
 ### Keys密钥
 
-第一次启动Ryujinx会弹出一个缺少组件的错误，这时就需要安装密钥。密钥的下载地址如下（可能需要科学上网）：[https://prodkeys.net/ryujinx-prod-keys-n28/#more-18](https://link.zhihu.com/?target=https%3A//prodkeys.net/ryujinx-prod-keys-n28/%23more-18) ，直接选择最新版本下载即可。![](image/PixPin_2026-02-12_14-07-28.png)
+第一次启动Ryujinx会弹出一个缺少组件的错误，这时就需要安装密钥。密钥的下载地址如下（可能需要科学上网）：https://prodkeys.net/ryujinx-prod-keys-update-1/ ，直接选择最新版本下载即可。![](image/PixPin_2026-02-12_14-07-28.png)
 
 这里还提供一个v21.2.0的密钥（提取码: tab9）：https://pan.baidu.com/s/1zJDs8BVKsPTQOMu-nlAojA
 
@@ -25,7 +25,7 @@ Ryujinx安装成功后最重要的就是安装密钥和固件了。
 
 ### Firmware固件
 
-密钥安装完成后就可以安装固件了。**注意：密钥和固件的安装版本必须一致！** 固件的下载地址如下（依旧需要科学上网）：https://prodkeys.net/ryujinx-firmware-v3/#more-193 ，选择与密钥对应的版本下载即可。![](image/PixPin_2026-02-12_14-14-58.png)
+密钥安装完成后就可以安装固件了。**注意：密钥和固件的安装版本必须一致！** 固件的下载地址如下（依旧需要科学上网）：https://prodkeys.net/ryujinx-firmware-v4/ ，选择与密钥对应的版本下载即可。![](image/PixPin_2026-02-12_14-14-58.png)
 
 这里也提供一个v21.2.0的固件（提取码: 46py）：https://pan.baidu.com/s/1_a2nmG93kqbU3BSCGVlAdA
 
