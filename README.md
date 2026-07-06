@@ -5,7 +5,7 @@
 
 ## Ryujinx安装
 
-首先，我们需要安装Ryujinx。由于Ryujinx的官网已经停止运营，域名的所有权已转移至任天堂，所以只能前往社区下载。这里提供一个分支版本Ryubing，现托管在GitHub上，链接如下：https://github.com/Ryubing 。进入链接后点击stable v1.3.3即可前往下载页面，然后选择对应版本便可下载Ryujinx安装包。详细操作过程如下：![](image/PixPin_2026-02-12_13-36-12.png)![](image/PixPin_2026-02-12_13-36-41.png)
+首先，我们需要安装Ryujinx。由于Ryujinx的官网已经停止运营，域名的所有权已转移至任天堂，所以只能前往社区下载。这里提供一个分支版本Ryubing，链接如下：https://git.ryujinx.app/projects/Ryubing 。进入链接后下滑找到 stable v1.3.3，然后点击即可前往下载页面，最后选择对应版本便可下载Ryujinx安装包。详细操作过程如下：![](image/PixPin_2026-07-06_21-46-53.png)![](image/PixPin_2026-07-06_21-47-57.png)
 
 解压Ryujinx安装包后，进入publish文件夹，双击Ryujinx.exe文件即可开始安装Ryujinx模拟器。
 
